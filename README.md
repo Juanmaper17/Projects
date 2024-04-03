@@ -8,5 +8,5 @@ Más
 líneas
 carita feliz
 
-# Dev 1
+# Desarrollador 1
 Documentación desarrollador 1
